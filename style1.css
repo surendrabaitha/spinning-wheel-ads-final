@@ -208,7 +208,7 @@
   
     
     
-      .btn-grad {background-image: linear-gradient(to right, #030100 0%, #000000  51%, #FF512F  100%)}
+     
            .btn-grad {
               margin: 10px auto;
               padding: 14px 40px;
@@ -216,7 +216,8 @@
               text-transform: uppercase;
               transition: 0.5s;
               background-size: 200% auto;
-              color: white;            
+              color: black; 
+               background-color:white;
               box-shadow: 0 0 20px #eee;
               border-radius: 10px;
               font-size: 16px;
